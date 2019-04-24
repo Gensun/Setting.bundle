@@ -12,6 +12,7 @@
 		84042A272270413E0024CB34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84042A252270413E0024CB34 /* Main.storyboard */; };
 		84042A29227041400024CB34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84042A28227041400024CB34 /* Assets.xcassets */; };
 		84042A2C227041400024CB34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84042A2A227041400024CB34 /* LaunchScreen.storyboard */; };
+		84042A49227051F50024CB34 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 84042A48227051F50024CB34 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		84042A28227041400024CB34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84042A2B227041400024CB34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84042A2D227041400024CB34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84042A48227051F50024CB34 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				84042A28227041400024CB34 /* Assets.xcassets */,
 				84042A2A227041400024CB34 /* LaunchScreen.storyboard */,
 				84042A2D227041400024CB34 /* Info.plist */,
+				84042A48227051F50024CB34 /* Settings.bundle */,
 			);
 			path = Setting;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84042A49227051F50024CB34 /* Settings.bundle in Resources */,
 				84042A2C227041400024CB34 /* LaunchScreen.storyboard in Resources */,
 				84042A29227041400024CB34 /* Assets.xcassets in Resources */,
 				84042A272270413E0024CB34 /* Main.storyboard in Resources */,
